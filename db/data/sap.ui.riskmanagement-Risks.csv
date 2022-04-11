@@ -1,0 +1,5 @@
+ID;createdAt;createdBy;title;descr;prio;impact;criticality;miti_ID;supplier_ID
+20466922-7d57-4e76-b14c-e53fd97dcb11;2021-04-27;abhishek.singh16@sap.com;CFR non-compliance;Recent restructuring might violate CFR code 71;3;10000;1;20466921-7d57-4e76-b14c-e53fd97dcb11;1000060
+20466922-7d57-4e76-b14c-e53fd97dcb12;2021-04-27;abhishek.singh16@sap.com;CFR non-compliance;Recent restructuring might violate CFR code 71;3;10000;1;20466921-7d57-4e76-b14c-e53fd97dcb12;1000061
+20466922-7d57-4e76-b14c-e53fd97dcb13;2021-04-27;abhishek.singh16@sap.com;CFR non-compliance;Recent restructuring might violate CFR code 71;3;10000;2;20466921-7d57-4e76-b14c-e53fd97dcb13;1000127
+20466922-7d57-4e76-b14c-e53fd97dcb14;2021-04-27;abhishek.singh16@sap.com;CFR non-compliance;Recent restructuring might violate CFR code 71;3;10000;3;20466921-7d57-4e76-b14c-e53fd97dcb13;1000181
